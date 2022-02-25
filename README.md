@@ -1,2 +1,2 @@
 # Fundamnetos_Macroeconom-a
-Python codes: graphs, data managment
+Python codes: graphs, data managment, macroeconomics series. 
